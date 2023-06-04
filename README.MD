@@ -1,2 +1,2 @@
-# sample page for online-course home-page.
+# sample online-course home-page.
 with HTML and CSS only 
