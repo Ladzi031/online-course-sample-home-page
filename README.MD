@@ -1,2 +1,3 @@
 # sample online-course home-page.
-with HTML and CSS only 
+with HTML and CSS only
+//i was still learning the basics of html/css when i doing this,  it's not too responsive...
